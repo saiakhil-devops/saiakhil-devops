@@ -15,7 +15,6 @@ I build reliable CI/CD pipelines, containerized apps, and secure cloud infrastru
 | **github-actions-devops-pipeline** | Linting, formatting, tests, Docker build & push | Python, Docker, GitHub Actions | ![CI](https://github.com/saiakhil-devops/github-actions-devops-pipeline/actions/workflows/ci.yml/badge.svg) |
 | **aws-devops-pipeline-demo** | Containerized app + AWS-ready pipeline scaffold | Python, Docker, GitHub Actions | ![CI](https://github.com/saiakhil-devops/aws-devops-pipeline-demo/actions/workflows/main.yml/badge.svg) |
 
-> Tip: Update `<WORKFLOW_FILE>` with the exact YAML in `.github/workflows/` (e.g., `python-ci.yml`).
 
 ---
 
