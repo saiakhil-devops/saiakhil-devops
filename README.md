@@ -5,7 +5,7 @@
 </h3>
 
 <!-- Name + one-line role -->
-<h1 align="center">Sai Akhil Perumalla</h1>
+<h1 align="center">Akhil P S</h1>
 <p align="center">
   <b>Cloud & DevOps Enthusiast</b> — CI/CD • Containers • AWS • Python
 </p>
