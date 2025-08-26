@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:saiakhilperumallaofficial@gmail.com">
+  <a href="mailto:akhil3110here@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge" />
   </a>
-  <a href="https://www.linkedin.com/in/sai-akhil-perumalla-0b473819b">
+  <a href="https://www.linkedin.com/in/akhil-p-s-5715b6349/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge" />
   </a>
   <a href="https://github.com/saiakhil-devops">
