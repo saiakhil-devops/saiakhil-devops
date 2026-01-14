@@ -5,13 +5,13 @@
 </h3>
 
 <!-- Name + one-line role -->
-<h1 align="center">Akhil P S</h1>
+<h1 align="center">SAI Akhil</h1>
 <p align="center">
   <b>Cloud & DevOps Enthusiast</b> — CI/CD • Containers • AWS • Python
 </p>
 
 <p align="center">
-  <a href="mailto:akhil3110here@gmail.com">
+  <a href="mailto:saiakhil73494@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge" />
   </a>
   <a href="https://www.linkedin.com/in/akhil-p-s-5715b6349/">
